@@ -14,5 +14,7 @@ public class Person {
 
     private  String brith;
 
+    private  String address;
+
 
 }
