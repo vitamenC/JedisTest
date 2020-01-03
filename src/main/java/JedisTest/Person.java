@@ -10,5 +10,9 @@ public class Person {
 
     private  Integer age;
 
+    private  String hiegh;
+
+    private  String brith;
+
 
 }
