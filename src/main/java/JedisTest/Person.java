@@ -16,4 +16,8 @@ public class Person {
 
     private String classId;
 
+    private  String address;
+
+
+
 }
